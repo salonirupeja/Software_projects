@@ -1,11 +1,9 @@
-import java.util.Scanner;
-
 /***************************************************************
  * Filename     : BMICalculator.java
  * Description  : A console-based BMI Calculator with unit options
  * Author       : Saloni Rupeja
  ***************************************************************/
-
+import java.util.Scanner;
 public class BMICalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
