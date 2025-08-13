@@ -2,7 +2,7 @@
  * Filename    : ToDoListApp.java
  * Description : A simple command-line To-Do List application 
  *               that allows users to add, view, and remove tasks.
- * Author Name : Saloni R.
+ * Author Name : Saloni Rupeja
  ***************************************************************/
 import java.util.ArrayList;
 import java.util.Scanner;
